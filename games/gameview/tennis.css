@@ -1,0 +1,23 @@
+ul {
+	list-style-type: none;
+  margin: 0;
+	padding: .1em;
+}
+
+li {
+	display: inline-block;
+  padding: 0.2em;
+	vertical-align: text-top;
+}
+
+.score{
+	font-size: 1.2em;
+}
+
+li div {
+	display: block;
+}
+
+
+
+

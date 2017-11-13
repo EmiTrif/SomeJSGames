@@ -1,0 +1,47 @@
+body{
+			background: #29293d;
+			padding:0px;
+			margin:0px;
+			text-align:center;
+			color: #adad85;
+			font-size: 2.5em;
+		}
+
+p{
+	margin-left: -1.5em;
+}
+
+ul{
+		list-style-type: none;
+		margin-top: 2.5em;
+		margin-left: -1.5em;
+}
+
+li{
+		display: inline-block;
+		padding: 0;
+		margin: 0;
+}
+
+.game{
+  width: 200px;
+	height: 280px;
+	text-align: center;
+	vertical-align: center;
+	padding-right: 2em;
+}
+
+img {
+	width: 150px;
+	height: 150px;
+	filter: grayscale(60%);
+	padding-bottom: 1em;
+}
+
+img:hover{
+  width: 180px;
+	height: 180px;
+  filter: grayscale(10%);
+	padding: 0;
+	margin: 0;
+}

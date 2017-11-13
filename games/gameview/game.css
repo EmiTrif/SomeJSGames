@@ -1,0 +1,24 @@
+
+body {
+	background: #202028;
+	color: #ccccb3;
+	font-size: 2em;
+	text-align: center;
+}
+
+canvas{ 
+	border: solid .2em #fff;
+	height: 90%;
+}
+
+#home{
+	position: absolute;
+	bottom: 0;
+  right: 0;
+  font-size: 0.5em; 
+}
+
+#home-ico{
+  height: 60px;
+	width: 60px; 
+}
